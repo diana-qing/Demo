@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is some more text
+=======
+This is some text
+>>>>>>> a5c87dbd7c2d0b6737446bd8561e9d2bf96384dd
